@@ -18,4 +18,4 @@ get a final accuracy of 97.13%.
 #### Projection of test images into eigen space with all eigen vectors constructed from 600 samples
 ![c](https://github.com/Nidhi-K/PCA-for-handwritten-digit-classification/blob/master/images/p_k600.jpg)
 
-For images and further details, refer to `Report.pdf`.
+For further details and images, refer to `Report.pdf`.
