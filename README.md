@@ -9,4 +9,7 @@ eigen vectors we choose.
 We also classify the digits using K-nearest neighbours on the transformed images and 
 get a final accuracy of 97.13%.
 
+#### First 4 eigen vectors from 6000 training images
+![a](https://github.com/Nidhi-K/PCA-for-handwritten-digit-classification/blob/master/evs1234_k6thou.jpg){:height="2px" width="4px"}
+
 For images and further details, refer to `Report.pdf`.
